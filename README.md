@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/63223883.svg)](https://zenodo.org/badge/latestdoi/63223883)
+
 # Saggi di Agricoltura
 
 ## di Giovan Battista Landeschi
